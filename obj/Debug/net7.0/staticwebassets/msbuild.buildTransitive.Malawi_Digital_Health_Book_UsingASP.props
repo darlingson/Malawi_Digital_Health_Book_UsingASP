@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Malawi_Digital_Health_Book_UsingASP.props" />
+</Project>

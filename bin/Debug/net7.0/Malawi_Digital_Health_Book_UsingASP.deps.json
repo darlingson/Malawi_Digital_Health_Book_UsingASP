@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Malawi_Digital_Health_Book_UsingASP/1.0.0": {
+        "runtime": {
+          "Malawi_Digital_Health_Book_UsingASP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Malawi_Digital_Health_Book_UsingASP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
