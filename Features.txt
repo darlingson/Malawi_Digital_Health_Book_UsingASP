@@ -1,0 +1,9 @@
+add patient
+add patient information
+add patient medical conditions
+add patient diagnosis
+add patient allergies
+manage patient information
+manage patient diagnosis
+manage patient allergies
+add patient general checkups
